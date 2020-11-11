@@ -16,7 +16,6 @@
 <img alt="Download" width="110" src="https://da-box.herokuapp.com/&1603291592580-7ju_mdbFatB5FzcJ-dlbtn.png">
 </a>
 </p>
-<br>
 
 ---
 <img src="https://cdn.discordapp.com/attachments/775348843696357388/775689219418619924/unknown.png">
