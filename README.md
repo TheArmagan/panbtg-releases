@@ -4,7 +4,7 @@
 ---
 
 <p align="left"> 
-    <a href="https://github.com/TheArmagan/panbtg-releases/">
+    <a href="https://github.com/TheArmagan/panbtg-releases/releases">
         <img alt="Download Link" src="https://img.shields.io/github/downloads/TheArmagan/panbtg-releases/total?color=%231ED760&label=CLICK%20TO%20DOWNLOAD&logo=github&logoColor=%23ffffff&style=for-the-badge">
     </a>
     <a href="https://discord.gg/fCqAh4kh77">
