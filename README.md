@@ -6,4 +6,5 @@
 <a href="https://github.com/TheArmagan/panbtg-releases/releases/latest">
 <img width="200" src="https://da-box.herokuapp.com/&1603291592580-7ju_mdbFatB5FzcJ-dlbtn.png">
 </a>
+![Preview](https://cdn.discordapp.com/attachments/775348843696357388/775689219418619924/unknown.png)
 
