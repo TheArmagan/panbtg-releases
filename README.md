@@ -1,6 +1,8 @@
 > # 🎉 PANBTG
 > Pixel Art NBT Generator.
+
 ---
+
 <p align="left"> 
 <a href="https://github.com/TheArmagan/EasyImage/panbtg-releases">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/TheArmagan/panbtg-releases/total?logo=github&style=for-the-badge">
@@ -15,8 +17,10 @@
 </a>
 </p>
 <br>
+
 ---
 <img src="https://cdn.discordapp.com/attachments/775348843696357388/775689219418619924/unknown.png">
 ---
+
 > Created by Kıraç Armağan Önal
 
