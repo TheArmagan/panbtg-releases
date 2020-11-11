@@ -24,12 +24,16 @@
 
 |   Pixel Art NBT Generator. v1.1.1 By Kıraç Armağan Önal (Armagan#2496)
 
+
 Example Usages:
     / Normal conversion without dithering. (Generally looks bad except pixel arts!)
     $ PANBTG.exe -i myImage.jpg
 
-    / Draw half sized image
+    / Draw half sized image.
     $ PANBTG.exe -i myImage.jpg -s 0.5
+
+    / Draw half sized image and grayscale effected.
+    $ PANBTG.exe -i myImage.jpg -s 0.5 -e grayscale
 
     / Conversion with dithering amount 5.
     $ PANBTG.exe -i myImage.jpg -d 5
