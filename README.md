@@ -13,7 +13,9 @@
 </p>
 
 ---
+
 <img src="https://cdn.discordapp.com/attachments/775348843696357388/775689219418619924/unknown.png">
+
 ---
 
 > Created by Kıraç Armağan Önal
