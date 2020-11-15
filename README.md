@@ -15,6 +15,7 @@
 ---
 
 ```
+
 |   ██████╗  █████╗ ███╗   ██╗██████╗ ████████╗ ██████╗
 |   ██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝██╔════╝
 |   ██████╔╝███████║██╔██╗ ██║██████╔╝   ██║   ██║  ███╗
@@ -22,7 +23,7 @@
 |   ██║     ██║  ██║██║ ╚████║██████╔╝   ██║   ╚██████╔╝
 |   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝    ╚═════╝
 
-|   Pixel Art NBT Generator. v1.1.1 By Kıraç Armağan Önal (Armagan#2496)
+|   Pixel Art NBT Generator. v1.2.1 By Kıraç Armağan Önal (Armagan#2496)
 
 
 Example Usages:
@@ -48,32 +49,49 @@ Argument List:
     -V, --version:
     \> output the version number
 
-    -d, --dither <1-10>: (Default: 0)
+    --dither <1-10>:
     \> Set the dithering factor. (Original: 5)
 
-    -sb, --scaffold-block <block-name>: (Default: "stone")
-    \> Scaffold block type for the powder type blocks.. (Use '-' for spaces.)
+    --scaffold-block <block-name>:<block-meta>:
+    \> Scaffold block type for the powder type blocks..
 
-    -ff, --full-scaffold: (Default: false)
+    --full-scaffold: (Default: false)
     \> Enables scaffold for every block.
-
-    -i, --input <path>:
-    \> Input image file. (jpg)
 
     --vertical: (Default: false)
     \> Draw the art vertically. (kinda-buggy)
 
-    -s, --scale <factor>: (Default: 1)
-    \> Rescale the image based on factor. (Original: 1)
+    --input <path>:
+    \> Input image file. (jpg)
 
-    -e, --effects <effects>:
-    \> Add effects to source image. (Separated using comma ",") (Available Effects: grayscale,deepfry)
+    --effects <effects>:
+    \> Add effects to source image. (Separated using comma ",") (Available Effects: grayscale,deepfry,brightness:<-100/100>,contrast:<-100/100>,invert)
+
+    --scale <factor>:
+    \> Rescale the image based on factor. (Original: 1.0)
+
+    --resize <width|AUTO>x<height|AUTO>:
+    \> Resize image using width and height.
+
+    --nearest-neighbor: (Default: false)
+    \> Sets the resizing mode to NEAREST NEIGHBOR.
+
+    --direction <+/->,<+/->:
+    \> The direction for the pixel art! (Format: <x direction>,<y direction>)
+
+    --only-preprocess: (Default: false)
+    \> Not gonna generate the nbt!
+
+    --offset:
+    \> Offset for the pixel at. ((X/Z)+OFFSET)
 
     --help:
     \> Show the help panel.
 
 Download:
     https://github.com/TheArmagan/panbtg-releases
+
+
 ```
 
 
